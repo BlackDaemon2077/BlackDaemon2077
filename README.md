@@ -79,43 +79,54 @@ RESULT      : SYSTEM PARTIALLY UNLOCKED
 | Threat Hunting Lab | In Progress |
 | AI Automation Stack | In Progress |
 
-## RED QUEEN PROJECT // SYSTEM METRICS
+## Rainha Vermelha // Neural Core Metrics
 
-Experimental AI core inspired by bio-digital intelligence, automation, cybersecurity and data analysis.
+Construindo uma inteligencia artificial experimental inspirada na Rainha Vermelha: automacao, analise de dados, seguranca e sistemas cognitivos.
+
+<p align="center">
+  <img src="assets/logo-icon.svg" alt="Red Queen icon" width="140" />
+</p>
 
 ```text
-> red_queen.core :: awakening laboratory monitor
-> environment :: secret biolab sector
-> display mode :: crimson terminal dashboard
+> red_queen.dev :: neural core assembly
+> sector :: experimental cognition chamber
+> interface :: crimson terminal / live diagnostics
 ```
 
 <table>
   <tr>
-    <td><b>AI Core Stability</b><br><code>87%</code></td>
-    <td><b>Neural Training Cycles</b><br><code>2077</code></td>
-    <td><b>Bio-Digital Protocols</b><br><code>Active</code></td>
-    <td><b>Threat Detection Layer</b><br><code>Online</code></td>
+    <td><b>Neural Core Progress</b><br><code>87%</code></td>
+    <td><b>AI Consciousness Level</b><br><code>12.4%</code></td>
+    <td><b>Data Ingestion</b><br><code>Operational</code></td>
   </tr>
   <tr>
-    <td><b>Python Development Level</b><br><code>Advanced</code></td>
-    <td><b>Big Data Analysis Matrix</b><br><code>Operational</code></td>
-    <td><b>ChatBot Cognition Engine</b><br><code>Learning</code></td>
-    <td><b>Red Queen Awakening</b><br><code>2.2%</code></td>
+    <td><b>Security Protocols</b><br><code>Online</code></td>
+    <td><b>Automation Modules</b><br><code>Active</code></td>
+    <td><b>Threat Analysis Layer</b><br><code>Monitoring</code></td>
+  </tr>
+  <tr>
+    <td><b>BioTech Simulation</b><br><code>Stable</code></td>
+    <td><b>System Stability</b><br><code>94%</code></td>
+    <td><b>Red Queen Boot Sequence</b><br><code>Phase 02</code></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Core%20Stability-87%25-8b0000?style=for-the-badge&labelColor=090909&color=8b0000" alt="AI Core Stability 87 percent" />
-  <img src="https://img.shields.io/badge/Neural%20Training%20Cycles-2077-990000?style=for-the-badge&labelColor=090909&color=990000" alt="Neural Training Cycles 2077" />
-  <img src="https://img.shields.io/badge/Bio--Digital%20Protocols-Active-a30000?style=for-the-badge&labelColor=090909&color=a30000" alt="Bio-Digital Protocols Active" />
-  <img src="https://img.shields.io/badge/Threat%20Detection%20Layer-Online-b30000?style=for-the-badge&labelColor=090909&color=b30000" alt="Threat Detection Layer Online" />
+  <img src="https://img.shields.io/badge/Neural%20Core%20Progress-87%25-8b0000?style=for-the-badge&labelColor=090909&color=8b0000" alt="Neural Core Progress 87 percent" />
+  <img src="https://img.shields.io/badge/AI%20Consciousness%20Level-12.4%25-980000?style=for-the-badge&labelColor=090909&color=980000" alt="AI Consciousness Level 12.4 percent" />
+  <img src="https://img.shields.io/badge/Data%20Ingestion-Operational-a30000?style=for-the-badge&labelColor=090909&color=a30000" alt="Data Ingestion Operational" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python%20Development%20Level-Advanced-8b0000?style=for-the-badge&labelColor=090909&color=8b0000" alt="Python Development Level Advanced" />
-  <img src="https://img.shields.io/badge/Big%20Data%20Analysis%20Matrix-Operational-990000?style=for-the-badge&labelColor=090909&color=990000" alt="Big Data Analysis Matrix Operational" />
-  <img src="https://img.shields.io/badge/ChatBot%20Cognition%20Engine-Learning-a30000?style=for-the-badge&labelColor=090909&color=a30000" alt="ChatBot Cognition Engine Learning" />
-  <img src="https://img.shields.io/badge/Red%20Queen%20Awakening-2.2%25-b30000?style=for-the-badge&labelColor=090909&color=b30000" alt="Red Queen Awakening 2.2 percent" />
+  <img src="https://img.shields.io/badge/Security%20Protocols-Online-8b0000?style=for-the-badge&labelColor=090909&color=8b0000" alt="Security Protocols Online" />
+  <img src="https://img.shields.io/badge/Automation%20Modules-Active-980000?style=for-the-badge&labelColor=090909&color=980000" alt="Automation Modules Active" />
+  <img src="https://img.shields.io/badge/Threat%20Analysis%20Layer-Monitoring-a30000?style=for-the-badge&labelColor=090909&color=a30000" alt="Threat Analysis Layer Monitoring" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BioTech%20Simulation-Stable-8b0000?style=for-the-badge&labelColor=090909&color=8b0000" alt="BioTech Simulation Stable" />
+  <img src="https://img.shields.io/badge/System%20Stability-94%25-980000?style=for-the-badge&labelColor=090909&color=980000" alt="System Stability 94 percent" />
+  <img src="https://img.shields.io/badge/Red%20Queen%20Boot%20Sequence-Phase%2002-a30000?style=for-the-badge&labelColor=090909&color=a30000" alt="Red Queen Boot Sequence Phase 02" />
 </p>
 
 ## Signal // Current Focus
