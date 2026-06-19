@@ -1,0 +1,23 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="npFill" x1="40" y1="60" x2="1160" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E3131D"/>
+      <stop offset="1" stop-color="#FF606A"/>
+    </linearGradient>
+    <pattern id="scan" width="12" height="12" patternUnits="userSpaceOnUse">
+      <rect width="12" height="6" fill="#000000" fill-opacity="0"/>
+      <rect y="6" width="12" height="6" fill="#FFFFFF" fill-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="120" rx="18" fill="#060606"/>
+  <rect x="8" y="8" width="1184" height="104" rx="14" stroke="#3A0A0A" stroke-width="2"/>
+  <rect x="42" y="40" width="1116" height="42" rx="12" fill="#131313"/>
+  <rect x="42" y="40" width="160" height="42" rx="12" fill="url(#npFill)">
+    <animate attributeName="width" values="160;980;160" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="42" y="40" width="1116" height="42" rx="12" fill="url(#scan)" opacity="0.85"/>
+  <rect x="120" y="40" width="48" height="42" fill="#FFFFFF" opacity="0.18">
+    <animate attributeName="x" values="42;1090;42" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="600" y="70" text-anchor="middle" fill="#F5F5F5" font-family="Consolas, 'Courier New', monospace" font-size="24" letter-spacing="2">NEURAL KEY DECODE IN PROGRESS...</text>
+</svg>

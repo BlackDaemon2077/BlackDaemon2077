@@ -1,22 +1,6 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="BLACKDAEMON2077 cyberpunk banner" width="100%" />
+  <img src="assets/profile-banner.svg" alt="BLACKDEMON2077 Sentinel BioTech banner" width="100%" />
 </div>
-
-<div align="center">
-  <img src="assets/boot-sequence.svg" alt="Boot sequence terminal banner" width="100%" />
-</div>
-
-<!-- Future drop-in replacement:
-![Boot Sequence](assets/umbrella_boot.gif)
--->
-
-<p align="center">
-  <img src="assets/umbrella-inspired-bg.svg" alt="Fictional biotech security insignia" width="180" />
-</p>
-
-<p align="center">
-  <code>Cybersecurity • Big Data • AI Systems • Python Development • ChatBots</code>
-</p>
 
 ## Identity // About Me
 
@@ -64,12 +48,16 @@ Sou **BlackDaemon2077**, estudante de Engenharia da Computacao e entusiasta de I
 ## SYSTEM ACCESS // MINI GAME
 
 ```text
-ACCESS NODE : [■■■□□□□□]
+ACCESS NODE : SENTINEL-07
 STATUS      : BREACHING...
 MISSION     : Decode the neural key.
 KEY         : N3UR0M4NC3R
 RESULT      : SYSTEM PARTIALLY UNLOCKED
 ```
+
+<p align="center">
+  <img src="assets/neural-progress-bar.svg" alt="Animated neural progress bar" width="100%" />
+</p>
 
 | Mission | Status |
 | --- | --- |
@@ -84,7 +72,7 @@ RESULT      : SYSTEM PARTIALLY UNLOCKED
 Construindo uma inteligencia artificial experimental inspirada na Rainha Vermelha: automacao, analise de dados, seguranca e sistemas cognitivos.
 
 <p align="center">
-  <img src="assets/logo-icon.svg" alt="Red Queen icon" width="140" />
+  <img src="assets/red-queen-boot.svg" alt="Red Queen boot placeholder" width="100%" />
 </p>
 
 ```text

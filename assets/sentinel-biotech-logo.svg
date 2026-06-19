@@ -1,0 +1,46 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sentinelRed" x1="600" y1="140" x2="600" y2="980" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F21621"/>
+      <stop offset="1" stop-color="#9C0008"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000000" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="1200" rx="48" fill="#FFFFFF"/>
+
+  <g filter="url(#softShadow)">
+    <path d="M600 150L698 370L600 590L502 370L600 150Z" fill="url(#sentinelRed)" stroke="#FFFFFF" stroke-width="16"/>
+    <path d="M876 258L842 494L626 592L660 356L876 258Z" fill="#0B0E12" stroke="#FFFFFF" stroke-width="16"/>
+    <path d="M1032 512L818 616L604 512L818 408L1032 512Z" fill="url(#sentinelRed)" stroke="#FFFFFF" stroke-width="16"/>
+    <path d="M876 766L660 668L626 432L842 530L876 766Z" fill="#0B0E12" stroke="#FFFFFF" stroke-width="16"/>
+    <path d="M600 874L502 654L600 434L698 654L600 874Z" fill="url(#sentinelRed)" stroke="#FFFFFF" stroke-width="16"/>
+    <path d="M324 766L358 530L574 432L540 668L324 766Z" fill="#0B0E12" stroke="#FFFFFF" stroke-width="16"/>
+    <path d="M168 512L382 408L596 512L382 616L168 512Z" fill="url(#sentinelRed)" stroke="#FFFFFF" stroke-width="16"/>
+    <path d="M324 258L540 356L574 592L358 494L324 258Z" fill="#0B0E12" stroke="#FFFFFF" stroke-width="16"/>
+  </g>
+
+  <g>
+    <path d="M492 562C492 502.353 540.353 454 600 454C659.647 454 708 502.353 708 562V620C746.66 620 778 651.34 778 690V866C778 886.987 760.987 904 740 904H460C439.013 904 422 886.987 422 866V690C422 651.34 453.34 620 492 620V562Z" fill="#0D1014" stroke="#FFFFFF" stroke-width="14"/>
+    <path d="M546 562C546 532.177 570.177 508 600 508C629.823 508 654 532.177 654 562V620H546V562Z" fill="#FFFFFF"/>
+    <path d="M600 598C615 620 625 638 625 664C625 694 607 712 600 720C593 712 575 694 575 664C575 638 585 620 600 598Z" fill="none" stroke="#D31218" stroke-width="14" stroke-linecap="round"/>
+    <path d="M576 642H624" stroke="#D31218" stroke-width="10" stroke-linecap="round"/>
+    <path d="M576 688H624" stroke="#D31218" stroke-width="10" stroke-linecap="round"/>
+    <path d="M600 720C585 740 575 758 575 784C575 814 593 832 600 840C607 832 625 814 625 784C625 758 615 740 600 720Z" fill="none" stroke="#D31218" stroke-width="14" stroke-linecap="round"/>
+    <path d="M500 740V824L532 856" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M700 740V824L668 856" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M542 724V856" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+    <path d="M658 724V856" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="500" cy="724" r="20" fill="#FFFFFF"/>
+    <circle cx="700" cy="724" r="20" fill="#FFFFFF"/>
+    <circle cx="542" cy="704" r="14" fill="#FFFFFF"/>
+    <circle cx="658" cy="704" r="14" fill="#FFFFFF"/>
+  </g>
+
+  <g>
+    <text x="600" y="1032" text-anchor="middle" fill="#0B0E12" font-family="'Segoe UI Black', Arial, sans-serif" font-size="142" letter-spacing="8">SENTINEL</text>
+    <text x="600" y="1110" text-anchor="middle" fill="#D31218" font-family="'Segoe UI Black', Arial, sans-serif" font-size="84" letter-spacing="22">BIOTECH</text>
+  </g>
+</svg>
