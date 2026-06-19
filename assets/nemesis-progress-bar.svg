@@ -1,0 +1,23 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nemesisFill" x1="42" y1="60" x2="1116" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D30D16"/>
+      <stop offset="1" stop-color="#FF5963"/>
+    </linearGradient>
+    <pattern id="nemesisScan" width="10" height="10" patternUnits="userSpaceOnUse">
+      <rect width="10" height="5" fill="#FFFFFF" fill-opacity="0.03"/>
+      <rect y="5" width="10" height="5" fill="#000000" fill-opacity="0"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="120" rx="18" fill="#050505"/>
+  <rect x="8" y="8" width="1184" height="104" rx="14" stroke="#3A0A0A" stroke-width="2"/>
+  <rect x="42" y="40" width="1116" height="42" rx="12" fill="#111111"/>
+  <rect x="42" y="40" width="190" height="42" rx="12" fill="url(#nemesisFill)">
+    <animate attributeName="width" values="190;1000;190" dur="3.8s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="42" y="40" width="1116" height="42" rx="12" fill="url(#nemesisScan)" opacity="0.9"/>
+  <rect x="78" y="40" width="40" height="42" fill="#FFFFFF" opacity="0.16">
+    <animate attributeName="x" values="42;1116;42" dur="2.2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="600" y="69" text-anchor="middle" fill="#F5F5F5" font-family="Consolas, 'Courier New', monospace" font-size="24" letter-spacing="2">PROJETO NEMESIS EM ATIVACAO</text>
+</svg>

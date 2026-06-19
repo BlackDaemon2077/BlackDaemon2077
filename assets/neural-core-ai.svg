@@ -1,0 +1,63 @@
+<svg width="1200" height="780" viewBox="0 0 1200 780" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="coreBg" x1="0" y1="0" x2="1200" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#040404"/>
+      <stop offset="1" stop-color="#130202"/>
+    </linearGradient>
+    <linearGradient id="coreRed" x1="600" y1="176" x2="600" y2="604" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF6A6A"/>
+      <stop offset="1" stop-color="#A40012"/>
+    </linearGradient>
+    <filter id="coreGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="780" rx="28" fill="url(#coreBg)"/>
+  <rect x="18" y="18" width="1164" height="744" rx="22" stroke="#2B0B0B" stroke-width="2"/>
+  <g opacity="0.34">
+    <circle cx="600" cy="390" r="230" stroke="#5A1111" stroke-width="2"/>
+    <circle cx="600" cy="390" r="182" stroke="#751515" stroke-width="2" stroke-dasharray="8 10"/>
+    <circle cx="600" cy="390" r="132" stroke="#8A1A1A" stroke-width="2"/>
+    <path d="M156 390H1044" stroke="#2B0B0B" stroke-width="2"/>
+    <path d="M600 116V664" stroke="#2B0B0B" stroke-width="2"/>
+  </g>
+  <g filter="url(#coreGlow)">
+    <circle cx="600" cy="390" r="74" fill="none" stroke="url(#coreRed)" stroke-width="8">
+      <animate attributeName="r" values="68;80;68" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="390" r="28" fill="#FF4D5D">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M600 224L600 316" stroke="url(#coreRed)" stroke-width="6" stroke-linecap="round"/>
+    <path d="M600 464L600 556" stroke="url(#coreRed)" stroke-width="6" stroke-linecap="round"/>
+    <path d="M434 390H526" stroke="url(#coreRed)" stroke-width="6" stroke-linecap="round"/>
+    <path d="M674 390H766" stroke="url(#coreRed)" stroke-width="6" stroke-linecap="round"/>
+    <path d="M486 276L548 338" stroke="url(#coreRed)" stroke-width="5" stroke-linecap="round"/>
+    <path d="M714 504L652 442" stroke="url(#coreRed)" stroke-width="5" stroke-linecap="round"/>
+    <path d="M714 276L652 338" stroke="url(#coreRed)" stroke-width="5" stroke-linecap="round"/>
+    <path d="M486 504L548 442" stroke="url(#coreRed)" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="600" cy="224" r="14" fill="#FF7A86"/>
+    <circle cx="600" cy="556" r="14" fill="#FF7A86"/>
+    <circle cx="434" cy="390" r="14" fill="#FF7A86"/>
+    <circle cx="766" cy="390" r="14" fill="#FF7A86"/>
+    <circle cx="486" cy="276" r="12" fill="#FF7A86"/>
+    <circle cx="714" cy="276" r="12" fill="#FF7A86"/>
+    <circle cx="486" cy="504" r="12" fill="#FF7A86"/>
+    <circle cx="714" cy="504" r="12" fill="#FF7A86"/>
+  </g>
+  <g opacity="0.72" font-family="Consolas, 'Courier New', monospace">
+    <text x="74" y="76" fill="#FF5965" font-size="22">neural_core.ai</text>
+    <text x="74" y="108" fill="#D8D8D8" font-size="18">&gt; cognitive lattice initializing</text>
+    <text x="74" y="134" fill="#D8D8D8" font-size="18">&gt; synthetic reasoning mesh online</text>
+    <text x="74" y="160" fill="#FF7D88" font-size="18">&gt; advanced defense cognition booted</text>
+  </g>
+  <g opacity="0.16">
+    <rect x="0" y="188" width="1200" height="4" fill="#FF4A57">
+      <animate attributeName="y" values="188;618;188" dur="4.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

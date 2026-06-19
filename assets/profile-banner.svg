@@ -1,15 +1,14 @@
-<svg width="1600" height="460" viewBox="0 0 1600 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1600" height="260" viewBox="0 0 1600 260" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bannerBg" x1="0" y1="0" x2="1600" y2="460" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bannerBg" x1="0" y1="0" x2="1600" y2="260" gradientUnits="userSpaceOnUse">
       <stop stop-color="#050505"/>
       <stop offset="0.55" stop-color="#140202"/>
       <stop offset="1" stop-color="#050505"/>
     </linearGradient>
-    <linearGradient id="bannerRed" x1="320" y1="34" x2="1130" y2="388" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FF2E2E" stop-opacity="0.92"/>
-      <stop offset="1" stop-color="#990000" stop-opacity="0.92"/>
+    <filter id="logoShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.4"/>
     </linearGradient>
-    <filter id="bannerGlow" x="-20%" y="-20%" width="140%" height="140%">
+    <filter id="titleGlow" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="7" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
@@ -18,46 +17,25 @@
     </filter>
   </defs>
 
-  <rect width="1600" height="460" rx="28" fill="url(#bannerBg)"/>
-  <rect x="22" y="22" width="1556" height="416" rx="22" stroke="#2B0B0B" stroke-width="2"/>
+  <rect width="1600" height="260" rx="28" fill="url(#bannerBg)"/>
+  <rect x="18" y="18" width="1564" height="224" rx="20" stroke="#2B0B0B" stroke-width="2"/>
 
   <g opacity="0.44">
-    <path d="M68 78H470" stroke="#471010" stroke-width="2"/>
-    <path d="M1116 78H1526" stroke="#471010" stroke-width="2"/>
-    <path d="M68 384H422" stroke="#471010" stroke-width="2"/>
-    <path d="M1176 384H1526" stroke="#471010" stroke-width="2"/>
-    <path d="M1030 130H1478" stroke="#2F0A0A" stroke-width="1.5" stroke-dasharray="8 8"/>
-    <path d="M1030 172H1448" stroke="#2F0A0A" stroke-width="1.5" stroke-dasharray="8 8"/>
-    <path d="M1030 214H1496" stroke="#2F0A0A" stroke-width="1.5" stroke-dasharray="8 8"/>
+    <path d="M52 60H490" stroke="#471010" stroke-width="2"/>
+    <path d="M1010 60H1546" stroke="#471010" stroke-width="2"/>
+    <path d="M52 200H410" stroke="#471010" stroke-width="2"/>
+    <path d="M1200 200H1546" stroke="#471010" stroke-width="2"/>
+    <path d="M1020 100H1510" stroke="#2F0A0A" stroke-width="1.5" stroke-dasharray="8 8"/>
+    <path d="M1020 130H1472" stroke="#2F0A0A" stroke-width="1.5" stroke-dasharray="8 8"/>
+    <path d="M1020 160H1520" stroke="#2F0A0A" stroke-width="1.5" stroke-dasharray="8 8"/>
   </g>
 
-  <g transform="translate(92 44)" filter="url(#bannerGlow)">
-    <path d="M260 18L322 156L260 294L198 156L260 18Z" fill="url(#bannerRed)" stroke="#FAFAFA" stroke-width="10"/>
-    <path d="M432 86L410 230L275 292L297 148L432 86Z" fill="#090B0F" stroke="#FAFAFA" stroke-width="10"/>
-    <path d="M522 178L388 242L254 178L388 114L522 178Z" fill="url(#bannerRed)" stroke="#FAFAFA" stroke-width="10"/>
-    <path d="M432 270L297 208L275 64L410 126L432 270Z" fill="#090B0F" stroke="#FAFAFA" stroke-width="10"/>
-    <path d="M260 338L198 200L260 62L322 200L260 338Z" fill="url(#bannerRed)" stroke="#FAFAFA" stroke-width="10"/>
-    <path d="M88 270L110 126L245 64L223 208L88 270Z" fill="#090B0F" stroke="#FAFAFA" stroke-width="10"/>
-    <path d="M-2 178L132 114L266 178L132 242L-2 178Z" fill="url(#bannerRed)" stroke="#FAFAFA" stroke-width="10"/>
-    <path d="M88 86L223 148L245 292L110 230L88 86Z" fill="#090B0F" stroke="#FAFAFA" stroke-width="10"/>
-
-    <path d="M220 208C220 168.235 252.235 136 292 136C331.765 136 364 168.235 364 208V248C389.405 248 410 268.595 410 294V412C410 427.464 397.464 440 382 440H202C186.536 440 174 427.464 174 412V294C174 268.595 194.595 248 220 248V208Z" fill="#0A0C10" stroke="#FAFAFA" stroke-width="9"/>
-    <path d="M256 208C256 188.118 272.118 172 292 172C311.882 172 328 188.118 328 208V248H256V208Z" fill="#FAFAFA"/>
-    <path d="M292 232C304 248 312 262 312 280C312 299 301 310 292 320C283 310 272 299 272 280C272 262 280 248 292 232Z" fill="none" stroke="#D01018" stroke-width="9" stroke-linecap="round"/>
-    <path d="M272 266H312" stroke="#D01018" stroke-width="6" stroke-linecap="round"/>
-    <path d="M272 296H312" stroke="#D01018" stroke-width="6" stroke-linecap="round"/>
-    <path d="M292 320C280 336 272 350 272 368C272 387 283 398 292 408C301 398 312 387 312 368C312 350 304 336 292 320Z" fill="none" stroke="#D01018" stroke-width="9" stroke-linecap="round"/>
-    <path d="M230 334V388L254 412" stroke="#FAFAFA" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M354 334V388L330 412" stroke="#FAFAFA" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M262 320V412" stroke="#FAFAFA" stroke-width="7" stroke-linecap="round"/>
-    <path d="M322 320V412" stroke="#FAFAFA" stroke-width="7" stroke-linecap="round"/>
-    <circle cx="230" cy="334" r="14" fill="#FAFAFA"/>
-    <circle cx="354" cy="334" r="14" fill="#FAFAFA"/>
-    <circle cx="262" cy="314" r="10" fill="#FAFAFA"/>
-    <circle cx="322" cy="314" r="10" fill="#FAFAFA"/>
+  <g transform="translate(54 30)" filter="url(#logoShadow)">
+    <rect x="0" y="0" width="360" height="200" rx="18" fill="#0B0B0B" fill-opacity="0.28" stroke="#311010" stroke-width="2"/>
+    <image href="logo-sentinel-biotech.png" x="20" y="14" width="320" height="172" preserveAspectRatio="xMidYMid meet"/>
   </g>
 
-  <g transform="translate(650 94)">
-    <text x="0" y="152" fill="#F5F5F5" font-family="'Segoe UI Black', Arial, sans-serif" font-size="96" letter-spacing="8">BLACKDEMON2077</text>
+  <g transform="translate(500 82)" filter="url(#titleGlow)">
+    <text x="0" y="78" fill="#F5F5F5" font-family="'Segoe UI Black', Arial, sans-serif" font-size="92" letter-spacing="8">BLACKDEMON2077</text>
   </g>
 </svg>

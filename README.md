@@ -2,6 +2,10 @@
   <img src="assets/profile-banner.svg" alt="BLACKDEMON2077 Sentinel BioTech banner" width="100%" />
 </div>
 
+<div align="center">
+  <img src="assets/nemesis-progress-bar.svg" alt="Projeto Nemesis em Ativacao" width="100%" />
+</div>
+
 ## Identity // About Me
 
 Sou **BlackDaemon2077**, estudante de Engenharia da Computacao e entusiasta de IA, automacao, seguranca, Big Data e sistemas inteligentes. Gosto de construir solucoes praticas que unem dados, automacao e inteligencia artificial.
@@ -72,7 +76,7 @@ RESULT      : SYSTEM PARTIALLY UNLOCKED
 Construindo uma inteligencia artificial experimental inspirada na Rainha Vermelha: automacao, analise de dados, seguranca e sistemas cognitivos.
 
 <p align="center">
-  <img src="assets/red-queen-boot.svg" alt="Red Queen boot placeholder" width="100%" />
+  <img src="assets/neural-core-ai.svg" alt="Neural core AI interface" width="100%" />
 </p>
 
 ```text
