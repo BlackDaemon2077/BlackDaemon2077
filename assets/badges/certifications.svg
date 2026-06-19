@@ -1,0 +1,18 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="180" rx="24" fill="#090909"/>
+
+  <rect x="40" y="36" width="348" height="108" rx="18" fill="#111111" stroke="#6f0c0c" stroke-width="2"/>
+  <text x="70" y="78" fill="#ff4d4d" font-family="'Segoe UI Black', Arial, sans-serif" font-size="20" letter-spacing="2">CERT 01</text>
+  <text x="70" y="114" fill="#f2f2f2" font-family="Consolas, 'Courier New', monospace" font-size="28">BIG DATA ANALYTICS</text>
+  <text x="70" y="136" fill="#bdbdbd" font-family="Consolas, 'Courier New', monospace" font-size="16">status: verified module</text>
+
+  <rect x="426" y="36" width="348" height="108" rx="18" fill="#111111" stroke="#8b1010" stroke-width="2"/>
+  <text x="456" y="78" fill="#ff5b5b" font-family="'Segoe UI Black', Arial, sans-serif" font-size="20" letter-spacing="2">CERT 02</text>
+  <text x="456" y="114" fill="#f2f2f2" font-family="Consolas, 'Courier New', monospace" font-size="28">CHATBOTS</text>
+  <text x="456" y="136" fill="#bdbdbd" font-family="Consolas, 'Courier New', monospace" font-size="16">status: verified module</text>
+
+  <rect x="812" y="36" width="348" height="108" rx="18" fill="#111111" stroke="#b31515" stroke-width="2"/>
+  <text x="842" y="78" fill="#ff7575" font-family="'Segoe UI Black', Arial, sans-serif" font-size="20" letter-spacing="2">CERT 03</text>
+  <text x="842" y="114" fill="#f2f2f2" font-family="Consolas, 'Courier New', monospace" font-size="28">PYTHON DEVELOPMENT</text>
+  <text x="842" y="136" fill="#bdbdbd" font-family="Consolas, 'Courier New', monospace" font-size="16">status: verified module</text>
+</svg>

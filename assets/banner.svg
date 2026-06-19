@@ -1,0 +1,52 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050505"/>
+      <stop offset="0.55" stop-color="#120000"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+    <linearGradient id="redBeam" x1="120" y1="0" x2="1080" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#300000" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ff3b3b" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#300000" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <rect x="42" y="42" width="1116" height="336" rx="24" stroke="#2d2d2d" stroke-width="2"/>
+  <rect width="1200" height="420" rx="28" fill="url(#redBeam)"/>
+
+  <g opacity="0.38">
+    <path d="M120 76H430" stroke="#7d0f0f" stroke-width="2"/>
+    <path d="M770 76H1080" stroke="#7d0f0f" stroke-width="2"/>
+    <path d="M120 344H370" stroke="#7d0f0f" stroke-width="2"/>
+    <path d="M830 344H1080" stroke="#7d0f0f" stroke-width="2"/>
+    <circle cx="600" cy="210" r="130" stroke="#640808" stroke-width="1.5"/>
+    <circle cx="600" cy="210" r="162" stroke="#3f0505" stroke-width="1.5" stroke-dasharray="8 8"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <text x="120" y="165" fill="#f5f5f5" font-family="'Segoe UI', Arial, sans-serif" font-size="26" letter-spacing="4">/ / PROFILE INITIALIZATION</text>
+    <text x="120" y="235" fill="#ff4d4d" font-family="'Segoe UI Black', Arial, sans-serif" font-size="72" letter-spacing="6">BLACKDAEMON2077</text>
+    <text x="120" y="286" fill="#d0d0d0" font-family="Consolas, 'Courier New', monospace" font-size="24" letter-spacing="2">CYBERSECURITY  //  BIG DATA  //  AI SYSTEMS  //  PYTHON</text>
+  </g>
+
+  <g transform="translate(858 94)">
+    <circle cx="122" cy="116" r="96" stroke="#ff4d4d" stroke-width="8"/>
+    <circle cx="122" cy="116" r="60" stroke="#ff4d4d" stroke-width="8"/>
+    <path d="M122 28L145 91L212 91L158 130L179 194L122 155L65 194L86 130L32 91L99 91L122 28Z" fill="#ff4d4d" fill-opacity="0.12" stroke="#ff4d4d" stroke-width="5"/>
+  </g>
+
+  <g opacity="0.9">
+    <rect x="120" y="320" width="358" height="18" rx="9" fill="#1e1e1e"/>
+    <rect x="120" y="320" width="294" height="18" rx="9" fill="#ff4d4d"/>
+    <text x="493" y="334" fill="#d7d7d7" font-family="Consolas, 'Courier New', monospace" font-size="16">neural sync: 82%</text>
+  </g>
+</svg>

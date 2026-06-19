@@ -1,0 +1,21 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="320" rx="24" fill="#070707"/>
+  <rect x="26" y="26" width="1148" height="268" rx="18" fill="#0d0d0d" stroke="#2b0b0b" stroke-width="2"/>
+  <circle cx="68" cy="56" r="7" fill="#ff4d4d"/>
+  <circle cx="94" cy="56" r="7" fill="#9b1b1b"/>
+  <circle cx="120" cy="56" r="7" fill="#4f0d0d"/>
+  <text x="150" y="62" fill="#b8b8b8" font-family="Consolas, 'Courier New', monospace" font-size="18">umbrella_boot.exe --safe-render --public-profile</text>
+
+  <text x="56" y="106" fill="#ff4d4d" font-family="Consolas, 'Courier New', monospace" font-size="22">&gt; booting fictional corporate shell...</text>
+  <text x="56" y="138" fill="#d9d9d9" font-family="Consolas, 'Courier New', monospace" font-size="22">&gt; loading security modules................. OK</text>
+  <text x="56" y="170" fill="#d9d9d9" font-family="Consolas, 'Courier New', monospace" font-size="22">&gt; mapping neural archives.................. OK</text>
+  <text x="56" y="202" fill="#d9d9d9" font-family="Consolas, 'Courier New', monospace" font-size="22">&gt; enabling automation cores................ OK</text>
+  <text x="56" y="234" fill="#d9d9d9" font-family="Consolas, 'Courier New', monospace" font-size="22">&gt; red team simulator link.................. OK</text>
+  <text x="56" y="266" fill="#ff7a7a" font-family="Consolas, 'Courier New', monospace" font-size="22">&gt; profile presentation mode................ ACTIVE</text>
+
+  <rect x="834" y="104" width="286" height="118" rx="14" fill="#090909" stroke="#3d0c0c" stroke-width="2"/>
+  <text x="860" y="136" fill="#f0f0f0" font-family="Consolas, 'Courier New', monospace" font-size="18">STATUS</text>
+  <text x="860" y="166" fill="#ff4d4d" font-family="Consolas, 'Courier New', monospace" font-size="24">ONLINE</text>
+  <text x="860" y="198" fill="#bcbcbc" font-family="Consolas, 'Courier New', monospace" font-size="16">render fallback: SVG</text>
+  <text x="860" y="222" fill="#bcbcbc" font-family="Consolas, 'Courier New', monospace" font-size="16">gif slot: assets/umbrella_boot.gif</text>
+</svg>
