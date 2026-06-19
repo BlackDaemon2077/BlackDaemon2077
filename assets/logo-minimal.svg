@@ -1,0 +1,19 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="minimalRed" x1="600" y1="220" x2="600" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E63A3A"/>
+      <stop offset="1" stop-color="#A00000"/>
+    </linearGradient>
+  </defs>
+  <circle cx="600" cy="500" r="286" stroke="#191919" stroke-width="18"/>
+  <circle cx="600" cy="500" r="222" stroke="#5A1212" stroke-width="6"/>
+  <g>
+    <path d="M600 228L690 392L600 556L510 392L600 228Z" fill="url(#minimalRed)" stroke="#141414" stroke-width="14"/>
+    <path d="M872 500L708 590L544 500L708 410L872 500Z" fill="#F4F4F4" stroke="#141414" stroke-width="14"/>
+    <path d="M600 772L510 608L600 444L690 608L600 772Z" fill="url(#minimalRed)" stroke="#141414" stroke-width="14"/>
+    <path d="M328 500L492 410L656 500L492 590L328 500Z" fill="#F4F4F4" stroke="#141414" stroke-width="14"/>
+  </g>
+  <circle cx="600" cy="500" r="28" fill="#141414"/>
+  <text x="600" y="956" text-anchor="middle" fill="#202020" font-family="'Segoe UI Black', Arial, sans-serif" font-size="72" letter-spacing="12">RQ</text>
+  <text x="600" y="1010" text-anchor="middle" fill="#A00000" font-family="Consolas, 'Courier New', monospace" font-size="26" letter-spacing="8">MINIMAL SYSTEM MARK</text>
+</svg>

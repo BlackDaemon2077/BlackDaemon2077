@@ -79,15 +79,43 @@ RESULT      : SYSTEM PARTIALLY UNLOCKED
 | Threat Hunting Lab | In Progress |
 | AI Automation Stack | In Progress |
 
-## GitHub Intel // Live Stats
+## RED QUEEN PROJECT // SYSTEM METRICS
+
+Experimental AI core inspired by bio-digital intelligence, automation, cybersecurity and data analysis.
+
+```text
+> red_queen.core :: awakening laboratory monitor
+> environment :: secret biolab sector
+> display mode :: crimson terminal dashboard
+```
+
+<table>
+  <tr>
+    <td><b>AI Core Stability</b><br><code>87%</code></td>
+    <td><b>Neural Training Cycles</b><br><code>2077</code></td>
+    <td><b>Bio-Digital Protocols</b><br><code>Active</code></td>
+    <td><b>Threat Detection Layer</b><br><code>Online</code></td>
+  </tr>
+  <tr>
+    <td><b>Python Development Level</b><br><code>Advanced</code></td>
+    <td><b>Big Data Analysis Matrix</b><br><code>Operational</code></td>
+    <td><b>ChatBot Cognition Engine</b><br><code>Learning</code></td>
+    <td><b>Red Queen Awakening</b><br><code>2.2%</code></td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackDaemon2077&show_icons=true&bg_color=0d0d0d&title_color=ff4d4d&text_color=f5f5f5&icon_color=ff4d4d&border_color=2b0b0b&hide=issues" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDaemon2077&layout=compact&bg_color=0d0d0d&title_color=ff4d4d&text_color=f5f5f5&border_color=2b0b0b" alt="Top languages" height="170" />
+  <img src="https://img.shields.io/badge/AI%20Core%20Stability-87%25-8b0000?style=for-the-badge&labelColor=090909&color=8b0000" alt="AI Core Stability 87 percent" />
+  <img src="https://img.shields.io/badge/Neural%20Training%20Cycles-2077-990000?style=for-the-badge&labelColor=090909&color=990000" alt="Neural Training Cycles 2077" />
+  <img src="https://img.shields.io/badge/Bio--Digital%20Protocols-Active-a30000?style=for-the-badge&labelColor=090909&color=a30000" alt="Bio-Digital Protocols Active" />
+  <img src="https://img.shields.io/badge/Threat%20Detection%20Layer-Online-b30000?style=for-the-badge&labelColor=090909&color=b30000" alt="Threat Detection Layer Online" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BlackDaemon2077&background=0D0D0D&border=2B0B0B&stroke=2B0B0B&ring=FF4D4D&fire=FF4D4D&currStreakNum=F5F5F5&currStreakLabel=FF4D4D&sideNums=F5F5F5&sideLabels=C9C9C9&dates=8A8A8A" alt="GitHub streak" width="100%" />
+  <img src="https://img.shields.io/badge/Python%20Development%20Level-Advanced-8b0000?style=for-the-badge&labelColor=090909&color=8b0000" alt="Python Development Level Advanced" />
+  <img src="https://img.shields.io/badge/Big%20Data%20Analysis%20Matrix-Operational-990000?style=for-the-badge&labelColor=090909&color=990000" alt="Big Data Analysis Matrix Operational" />
+  <img src="https://img.shields.io/badge/ChatBot%20Cognition%20Engine-Learning-a30000?style=for-the-badge&labelColor=090909&color=a30000" alt="ChatBot Cognition Engine Learning" />
+  <img src="https://img.shields.io/badge/Red%20Queen%20Awakening-2.2%25-b30000?style=for-the-badge&labelColor=090909&color=b30000" alt="Red Queen Awakening 2.2 percent" />
 </p>
 
 ## Signal // Current Focus

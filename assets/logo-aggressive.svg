@@ -1,0 +1,40 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="aggressiveRed" x1="600" y1="146" x2="600" y2="852" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF1F1F"/>
+      <stop offset="1" stop-color="#7A0000"/>
+    </linearGradient>
+    <filter id="aggressiveGlow" x="-24%" y="-24%" width="148%" height="148%">
+      <feGaussianBlur stdDeviation="11" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g opacity="0.38">
+    <circle cx="600" cy="488" r="360" stroke="#2E0909" stroke-width="4"/>
+    <circle cx="600" cy="488" r="304" stroke="#4A0A0A" stroke-width="4" stroke-dasharray="8 12"/>
+    <path d="M600 96V892" stroke="#3B0A0A" stroke-width="4"/>
+    <path d="M202 488H998" stroke="#3B0A0A" stroke-width="4"/>
+    <path d="M320 208L880 768" stroke="#3B0A0A" stroke-width="3"/>
+    <path d="M880 208L320 768" stroke="#3B0A0A" stroke-width="3"/>
+  </g>
+  <g filter="url(#aggressiveGlow)">
+    <path d="M600 146L706 330L600 514L494 330L600 146Z" fill="url(#aggressiveRed)" stroke="#0E0E0E" stroke-width="18"/>
+    <path d="M902 222L852 430L660 542L710 334L902 222Z" fill="#EFEFEF" stroke="#0E0E0E" stroke-width="18"/>
+    <path d="M1038 488L844 610L650 488L844 366L1038 488Z" fill="url(#aggressiveRed)" stroke="#0E0E0E" stroke-width="18"/>
+    <path d="M902 754L710 642L660 434L852 546L902 754Z" fill="#EFEFEF" stroke="#0E0E0E" stroke-width="18"/>
+    <path d="M600 830L494 646L600 462L706 646L600 830Z" fill="url(#aggressiveRed)" stroke="#0E0E0E" stroke-width="18"/>
+    <path d="M298 754L348 546L540 434L490 642L298 754Z" fill="#EFEFEF" stroke="#0E0E0E" stroke-width="18"/>
+    <path d="M162 488L356 366L550 488L356 610L162 488Z" fill="url(#aggressiveRed)" stroke="#0E0E0E" stroke-width="18"/>
+    <path d="M298 222L490 334L540 542L348 430L298 222Z" fill="#EFEFEF" stroke="#0E0E0E" stroke-width="18"/>
+    <circle cx="600" cy="488" r="42" fill="#0A0A0A"/>
+    <circle cx="600" cy="488" r="16" fill="#FF1F1F"/>
+  </g>
+  <g opacity="0.9">
+    <path d="M228 876H972" stroke="#5E1010" stroke-width="3"/>
+    <text x="600" y="980" text-anchor="middle" fill="#F7F7F7" font-family="'Segoe UI Black', Arial, sans-serif" font-size="80" letter-spacing="12">AI DEFENSE</text>
+    <text x="600" y="1030" text-anchor="middle" fill="#FF2B2B" font-family="Consolas, 'Courier New', monospace" font-size="28" letter-spacing="7">CRITICAL CONTAINMENT SYSTEM ONLINE</text>
+  </g>
+</svg>

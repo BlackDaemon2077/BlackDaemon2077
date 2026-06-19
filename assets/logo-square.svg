@@ -1,0 +1,18 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="squareRed" x1="512" y1="214" x2="512" y2="810" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F44343"/>
+      <stop offset="1" stop-color="#8D0000"/>
+    </linearGradient>
+  </defs>
+  <circle cx="512" cy="512" r="292" stroke="#1A1A1A" stroke-width="20"/>
+  <path d="M512 214L584 366L512 518L440 366L512 214Z" fill="url(#squareRed)" stroke="#111111" stroke-width="16"/>
+  <path d="M740 284L714 454L556 524L582 354L740 284Z" fill="#F5F5F5" stroke="#111111" stroke-width="16"/>
+  <path d="M850 512L694 586L538 512L694 438L850 512Z" fill="url(#squareRed)" stroke="#111111" stroke-width="16"/>
+  <path d="M740 740L582 670L556 500L714 570L740 740Z" fill="#F5F5F5" stroke="#111111" stroke-width="16"/>
+  <path d="M512 810L440 658L512 506L584 658L512 810Z" fill="url(#squareRed)" stroke="#111111" stroke-width="16"/>
+  <path d="M284 740L310 570L468 500L442 670L284 740Z" fill="#F5F5F5" stroke="#111111" stroke-width="16"/>
+  <path d="M174 512L330 438L486 512L330 586L174 512Z" fill="url(#squareRed)" stroke="#111111" stroke-width="16"/>
+  <path d="M284 284L442 354L468 524L310 454L284 284Z" fill="#F5F5F5" stroke="#111111" stroke-width="16"/>
+  <circle cx="512" cy="512" r="26" fill="#111111"/>
+</svg>
