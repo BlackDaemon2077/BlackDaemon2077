@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.png" alt="BLACKDEMON2077 Sentinel BioTech banner" width="100%" /> 
+  <img src="assets/profile-banner.png" alt="BLACKDAEMON2077 Sentinel BioTech banner" width="100%" /> 
 </div>
 
 <div align="center">
