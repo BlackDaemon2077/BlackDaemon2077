@@ -19,7 +19,7 @@
 
 ## Identity // About Me
 
-Sou **BlackDaemon2077**, estudante de Engenharia da Computacao e entusiasta de IA, automacao, seguranca, Big Data e sistemas inteligentes. Gosto de construir solucoes praticas que unem dados, automacao e inteligencia artificial.
+Sou **Gustavo - BlackDaemon2077**, estudante de Engenharia da Computação, apaixonado por Inteligência Artificial, Engenharia de Dados, Automação, Cibersegurança e Sistemas Inteligentes. Meu foco é desenvolver soluções inovadoras que integrem dados, software e IA para transformar processos complexos em decisões mais rápidas, precisas e eficientes. Estou sempre explorando novas tecnologias, arquiteturas escaláveis e aplicações avançadas de machine learning para criar projetos com impacto real.
 
 ```text
 > boot sector online
