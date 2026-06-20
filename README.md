@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/resident evil umbrella corp GIF.gif" width="54%" style="vertical-align: middle;" />
+  <img src="assets/resident evil umbrella corp GIF.gif" width="52%" style="vertical-align: middle;" />
   <img src="assets/large GIF.gif" width="48%" style="vertical-align: middle;" />
 </div>
 
