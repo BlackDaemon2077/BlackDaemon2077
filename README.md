@@ -1,26 +1,12 @@
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="220">
+<img src="assets/logo-sentinel-biotech.png" width="180">
 
-<img src="assets/logo-sentinel-biotech.png" width="180"/>
+# BLACKDAEMON2077
 
-</td>
+### Sentinel BioTech
 
-<td align="left">
-
-<h1>BLACKDAEMON2077</h1>
-
-<h3>Sentinel BioTech</h3>
-
-<p>
-Computer Engineering Student • AI • Data Engineering • Cybersecurity • Automation
-</p>
-
-</td>
-</tr>
-</table>
+*Computer Engineering • Artificial Intelligence • Data Engineering • Cybersecurity*
 
 </div>
 
