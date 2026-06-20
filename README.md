@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/nemesis-progress-bar.svg" alt="Projeto Nemesis em Ativacao" width="100%" />
+  <img src="assets/nemesis-progress-bar.svg" alt="Projeto Nemesis em Ativação" width="100%" />
 </div>
 
 <table>
