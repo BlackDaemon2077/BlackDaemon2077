@@ -6,11 +6,16 @@
   <img src="assets/nemesis-progress-bar.svg" alt="Projeto Nemesis em Ativacao" width="100%" />
 </div>
 
-<div align="center">
-  <img src="assets/resident evil umbrella corp GIF.gif" width="43%" style="vertical-align: middle;" />
-  <img src="assets/large GIF.gif" width="48%" style="vertical-align: middle;" />
-</div>
-
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="assets/resident evil umbrella corp GIF.gif" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="assets/large GIF.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## Identity // About Me
 
