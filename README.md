@@ -6,6 +6,10 @@
   <img src="assets/nemesis-progress-bar.svg" alt="Projeto Nemesis em Ativacao" width="100%" />
 </div>
 
+<div align="center">
+  <img src="assets/resident evil umbrella corp GIF.gif" width="100%" />
+</div>
+
 ## Identity // About Me
 
 Sou **BlackDaemon2077**, estudante de Engenharia da Computacao e entusiasta de IA, automacao, seguranca, Big Data e sistemas inteligentes. Gosto de construir solucoes praticas que unem dados, automacao e inteligencia artificial.
