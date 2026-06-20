@@ -21,6 +21,11 @@
 
 Sou **Gustavo - BlackDaemon2077**, estudante de Engenharia da Computação, apaixonado por Inteligência Artificial, Engenharia de Dados, Automação, Cibersegurança e Sistemas Inteligentes. Meu foco é desenvolver soluções inovadoras que integrem dados, software e IA para transformar processos complexos em decisões mais rápidas, precisas e eficientes. Estou sempre explorando novas tecnologias, arquiteturas escaláveis e aplicações avançadas de machine learning para criar projetos com impacto real.
 
+I am **Gustavo - BlackDaemon2077**, a Computer Engineering student passionate about Artificial Intelligence, Data Engineering, Automation, Cybersecurity, and Intelligent Systems.
+My focus is on developing innovative solutions that integrate data, software, and AI to transform complex processes into faster, more accurate, and more efficient decision-making.
+I am constantly exploring emerging technologies, scalable architectures, and advanced machine learning applications to build projects that create real-world impact and drive digital transformation.
+
+
 ```text
 > boot sector online
 > neural interface stabilized
