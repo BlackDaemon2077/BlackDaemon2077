@@ -6,8 +6,10 @@
   <img src="assets/nemesis-progress-bar.svg" alt="Projeto Nemesis em Ativacao" width="100%" />
 </div>
 
-<div align="left">
-  <img src="assets/resident evil umbrella corp GIF.gif" width="75%" />     
+<div align="center">
+  <img src="assets/resident evil umbrella corp GIF.gif" width="47%" />
+  &nbsp;
+  <img src="assets/large GIF.gif" width="47%" />
 </div>
 
 
