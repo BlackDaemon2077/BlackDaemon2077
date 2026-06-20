@@ -62,17 +62,15 @@ MISSION     : Decode the neural key.
 KEY         : N3UR0M4NC3R
 RESULT      : SYSTEM PARTIALLY UNLOCKED
 ```
-
-
-<div align="center">
-  <img src="assets/terminal operating system GIF.gif" width="100%" />
-</div>
-
-
-
 <p align="center">
   <img src="assets/neural-progress-bar.svg" alt="Animated neural progress bar" width="100%" />
 </p>
+
+
+<div align="center">
+  <img src="assets/terminal operating system GIF.gif" width="75%" />
+</div>
+
 
 | Mission | Status |
 | --- | --- |
