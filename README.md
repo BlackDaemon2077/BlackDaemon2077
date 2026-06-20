@@ -1,5 +1,27 @@
 <div align="center">
-  <img src="assets/profile-banner.png" alt="BLACKDAEMON2077 Sentinel BioTech banner" width="100%" /> 
+
+<table>
+<tr>
+<td align="center" width="220">
+
+<img src="assets/logo-sentinel-biotech.png" width="180"/>
+
+</td>
+
+<td align="left">
+
+<h1>BLACKDAEMON2077</h1>
+
+<h3>Sentinel BioTech</h3>
+
+<p>
+Computer Engineering Student • AI • Data Engineering • Cybersecurity • Automation
+</p>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <div align="center">
