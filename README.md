@@ -1,14 +1,19 @@
 <div align="center">
-  <img src="assets/profile-banner.png" alt="BLACKDEMON2077 Sentinel BioTech banner" width="100%" />
+  <img src="assets/profile-banner.png" alt="BLACKDEMON2077 Sentinel BioTech banner" width="100%" /> 
 </div>
 
 <div align="center">
   <img src="assets/nemesis-progress-bar.svg" alt="Projeto Nemesis em Ativacao" width="100%" />
 </div>
 
-<div align="center">
-  <img src="assets/resident evil umbrella corp GIF.gif" width="100%" />
+<div align="left">
+  <img src="assets/resident evil umbrella corp GIF.gif" width="75%" />
 </div>
+
+<div align="right">
+  <img src="assets/large GIF.gif" width="75%" />
+</div>
+
 
 ## Identity // About Me
 
